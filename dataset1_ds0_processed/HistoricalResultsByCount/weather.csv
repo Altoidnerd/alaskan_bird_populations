@@ -1,0 +1,50 @@
+CountYear3,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
+118,27.0 Fahrenheit,34.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+117,25.0 Fahrenheit,36.0 Fahrenheit,Cloudy,Cloudy,Light,None,Light,None
+116,22.0 Fahrenheit,28.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+115,23.0 Fahrenheit,34.0 Fahrenheit,Cloudy,Cloudy,Light,None,Light,None
+114,14.0 Fahrenheit,25.0 Fahrenheit,Cloudy,Cloudy,None,None,Light,Heavy
+113,-2.0 Fahrenheit,12.0 Fahrenheit,Clear,Clear,None,None,None,None
+112,19.0 Fahrenheit,43.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+111,-10.0 Fahrenheit,5.0 Fahrenheit,Clear,Clear,None,None,None,None
+110,-5.0 Fahrenheit,5.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+109,14.0 Fahrenheit,20.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+108,10.0 Fahrenheit,19.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+107,3.0 Fahrenheit,19.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+106,34.0 Fahrenheit,41.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+105,32.0 Fahrenheit,36.0 Fahrenheit,Cloudy,Cloudy,None,Light,None,Light
+104,18.0 Fahrenheit,30.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+103,21.0 Fahrenheit,29.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+102,-15.0 Fahrenheit,-1.0 Fahrenheit,Foggy,Foggy,None,None,None,None
+101,15.0 Fahrenheit,27.0 Fahrenheit,Clear,Clear,None,None,None,None
+100,3.0 Fahrenheit,13.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+99,19.0 Fahrenheit,24.0 Fahrenheit,Cloudy,Cloudy,None,None,None,None
+98,12.0 Fahrenheit,20.0 Fahrenheit,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+97,11.0 Fahrenheit,27.0 Fahrenheit,Clear,Clear,Unknown,Unknown,Unknown,Unknown
+96,21.0 Fahrenheit,28.0 Fahrenheit,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+95,11.0 Fahrenheit,18.0 Fahrenheit,Unknown,Unknown,None,None,Heavy,Light
+94,28.0 Fahrenheit,37.0 Fahrenheit,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+93,0.0 Fahrenheit,14.0 Fahrenheit,Cloudy,Cloudy,None,None,Light,Light
+92,24.0 Fahrenheit,32.0 Fahrenheit,Unknown,Unknown,None,None,Heavy,None
+91,-2.0 Fahrenheit,7.0 Fahrenheit,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+90,29.0 ,34.0 ,Foggy,Foggy,Unknown,Unknown,Unknown,Unknown
+89,25.0 ,34.0 ,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+88,20.0 ,38.0 ,Cloudy,Cloudy,None,Light,None,None
+87,30.0 ,33.0 ,Partly Cloudy,Partly Cloudy,Unknown,Unknown,Unknown,Unknown
+86,35.0 ,42.0 ,Cloudy,Cloudy,Light,Light,None,None
+85,9.0 ,14.0 ,Foggy,Foggy,None,None,Light,None
+84,10.0 ,23.0 ,Cloudy,Cloudy,Unknown,Unknown,Unknown,Unknown
+83,8.0 ,23.0 ,Partly Cloudy,Partly Cloudy,Unknown,Unknown,Unknown,Unknown
+82,20.0 ,28.0 ,Partly Cloudy,Partly Cloudy,Unknown,Unknown,Unknown,Unknown
+81,-18.0 ,5.0 ,Clear,Clear,Unknown,Unknown,Unknown,Unknown
+80,-10.0 ,5.0 ,Clear,Clear,Unknown,Unknown,Unknown,Unknown
+72,28.0 ,30.0 ,Foggy,Foggy,None,None,None,None
+71,-13.0 ,-2.0 ,Clear,Clear,None,None,None,None
+70,26.0 ,42.0 ,Cloudy,Cloudy,Light,Light,None,None
+69,-8.0 ,10.0 ,Foggy,Foggy,None,None,Light,Light
+68,-3.0 ,8.0 ,Cloudy,Cloudy,None,None,Light,Light
+67,5.0 ,23.0 ,Clear,Clear,Unknown,Unknown,Unknown,Unknown
+66,8.0 ,14.0 ,Clear,Clear,Unknown,Unknown,Unknown,Unknown
+64,15.0 ,24.0 ,Partly Cloudy,Partly Cloudy,Unknown,Unknown,Unknown,Unknown
+63,22.0 ,34.0 ,Unknown,Unknown,None,Light,Light,None
+
