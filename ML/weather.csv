@@ -1,4 +1,4 @@
-CountYear3,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
+countYear,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
 118,27.0 ,34.0 ,Cloudy,Cloudy,None,None,None,None
 117,25.0 ,36.0 ,Cloudy,Cloudy,Light,None,Light,None
 116,22.0 ,28.0 ,Partly Cloudy,Partly Cloudy,None,None,None,None
