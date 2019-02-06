@@ -1,0 +1,398 @@
+"Bald Eagle
+[Haliaeetus leucocephalus]","1941 [42]
+Count Date: 12/27/1941
+# Participants: 
+# Species Reported: 
+Total Hrs.: ",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1960 [61]
+Count Date: 1/2/1961
+# Participants: 
+# Species Reported: 
+Total Hrs.: 29.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1962 [63]
+Count Date: 12/23/1962
+# Participants: 
+# Species Reported: 
+Total Hrs.: 33.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1963 [64]
+Count Date: 12/22/1963
+# Participants: 
+# Species Reported: 
+Total Hrs.: 21.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1965 [66]
+Count Date: 12/26/1965
+# Participants: 
+# Species Reported: 
+Total Hrs.: 16.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1966 [67]
+Count Date: 12/26/1966
+# Participants: 
+# Species Reported: 
+Total Hrs.: 21.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1967 [68]
+Count Date: 12/24/1967
+# Participants: 
+# Species Reported: 
+Total Hrs.: 14.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1968 [69]
+Count Date: 12/28/1968
+# Participants: 
+# Species Reported: 
+Total Hrs.: 24.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1969 [70]
+Count Date: 12/28/1969
+# Participants: 
+# Species Reported: 
+Total Hrs.: 28.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1970 [71]
+Count Date: 12/27/1970
+# Participants: 
+# Species Reported: 
+Total Hrs.: 25.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1971 [72]
+Count Date: 12/26/1971
+# Participants: 
+# Species Reported: 
+Total Hrs.: 36.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1972 [73]
+Count Date: 12/23/1972
+# Participants: 
+# Species Reported: 
+Total Hrs.: 33.00",1,0.0303,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1973 [74]
+Count Date: 12/16/1973
+# Participants: 
+# Species Reported: 
+Total Hrs.: 66.00",1,0.0152,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1974 [75]
+Count Date: 12/14/1974
+# Participants: 
+# Species Reported: 
+Total Hrs.: 61.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1975 [76]
+Count Date: 12/20/1975
+# Participants: 
+# Species Reported: 
+Total Hrs.: 85.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1976 [77]
+Count Date: 12/18/1976
+# Participants: 
+# Species Reported: 
+Total Hrs.: 117.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1977 [78]
+Count Date: 12/17/1977
+# Participants: 
+# Species Reported: 
+Total Hrs.: 110.00",,,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1978 [79]
+Count Date: 12/16/1978
+# Participants: 
+# Species Reported: 
+Total Hrs.: 71.00",2,0.0282,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1979 [80]
+Count Date: 12/15/1979
+# Participants: 
+# Species Reported: 
+Total Hrs.: 94.00",cw,0.0000,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1980 [81]
+Count Date: 12/20/1980
+# Participants: 
+# Species Reported: 
+Total Hrs.: 103.00",3,0.0291,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1981 [82]
+Count Date: 12/19/1981
+# Participants: 
+# Species Reported: 
+Total Hrs.: 142.00",1,0.0070,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1982 [83]
+Count Date: 12/18/1982
+# Participants: 
+# Species Reported: 
+Total Hrs.: 135.00",1,0.0074,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1983 [84]
+Count Date: 12/17/1983
+# Participants: 
+# Species Reported: 
+Total Hrs.: 126.00",4,0.0317,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1984 [85]
+Count Date: 12/15/1984
+# Participants: 
+# Species Reported: 
+Total Hrs.: 136.00",2,0.0147,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1985 [86]
+Count Date: 12/21/1985
+# Participants: 
+# Species Reported: 
+Total Hrs.: 132.00",1,0.0076,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1986 [87]
+Count Date: 12/20/1986
+# Participants: 
+# Species Reported: 
+Total Hrs.: 146.00",5,0.0342,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1987 [88]
+Count Date: 12/19/1987
+# Participants: 
+# Species Reported: 
+Total Hrs.: 101.50",4,0.0394,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1988 [89]
+Count Date: 12/17/1988
+# Participants: 
+# Species Reported: 
+Total Hrs.: 134.00",3,0.0224,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1989 [90]
+Count Date: 12/16/1989
+# Participants: 
+# Species Reported: 
+Total Hrs.: 128.00",2,0.0156,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1990 [91]
+Count Date: 12/15/1990
+# Participants: 
+# Species Reported: 39
+Total Hrs.: 142.00",4,0.0282,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1991 [92]
+Count Date: 12/14/1991
+# Participants: 
+# Species Reported: 43
+Total Hrs.: 152.00",3,0.0197,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1992 [93]
+Count Date: 12/19/1992
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 175.00",5,0.0286,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1993 [94]
+Count Date: 12/19/1993
+# Participants: 
+# Species Reported: 44
+Total Hrs.: 147.00",4,0.0272,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1994 [95]
+Count Date: 12/17/1994
+# Participants: 
+# Species Reported: 42
+Total Hrs.: 149.00",6,0.0403,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1995 [96]
+Count Date: 12/16/1995
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 172.00",7,0.0407,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1996 [97]
+Count Date: 12/21/1996
+# Participants: 
+# Species Reported: 40
+Total Hrs.: 167.00",6,0.0359,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1997 [98]
+Count Date: 12/20/1997
+# Participants: 
+# Species Reported: 41
+Total Hrs.: 188.00",9,0.0479,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1998 [99]
+Count Date: 12/19/1998
+# Participants: 
+# Species Reported: 45
+Total Hrs.: 194.00",9,0.0464,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","1999 [100]
+Count Date: 12/18/1999
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 195.00",8,0.0410,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2000 [101]
+Count Date: 12/16/2000
+# Participants: 
+# Species Reported: 41
+Total Hrs.: 196.00",9,0.0459,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2001 [102]
+Count Date: 12/15/2001
+# Participants: 
+# Species Reported: 39
+Total Hrs.: 171.00",8,0.0468,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2002 [103]
+Count Date: 12/14/2002
+# Participants: 
+# Species Reported: 43
+Total Hrs.: 181.00",7,0.0387,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2003 [104]
+Count Date: 12/14/2003
+# Participants: 44
+# Species Reported: 41
+Total Hrs.: 150.00",8,0.0533,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2004 [105]
+Count Date: 12/18/2004
+# Participants: 72
+# Species Reported: 50
+Total Hrs.: 208.75",15,0.0719,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2005 [106]
+Count Date: 12/17/2005
+# Participants: 70
+# Species Reported: 40
+Total Hrs.: 186.00",13,0.0699,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2006 [107]
+Count Date: 12/16/2006
+# Participants: 88
+# Species Reported: 46
+Total Hrs.: 218.25",32,0.1466,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2007 [108]
+Count Date: 12/15/2007
+# Participants: 86
+# Species Reported: 40
+Total Hrs.: 223.75",32,0.1430,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2008 [109]
+Count Date: 12/20/2008
+# Participants: 88
+# Species Reported: 44
+Total Hrs.: 196.00",19,0.0969,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2009 [110]
+Count Date: 12/19/2009
+# Participants: 95
+# Species Reported: 38
+Total Hrs.: 202.00",25,0.1238,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2010 [111]
+Count Date: 12/18/2010
+# Participants: 93
+# Species Reported: 40
+Total Hrs.: 201.50",30,0.1489,"HC,"
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2011 [112]
+Count Date: 12/17/2011
+# Participants: 99
+# Species Reported: 39
+Total Hrs.: 229.45",45,0.1961,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2012 [113]
+Count Date: 12/15/2012
+# Participants: 59
+# Species Reported: 37
+Total Hrs.: 197.70",25,0.1265,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2013 [114]
+Count Date: 12/14/2013
+# Participants: 134
+# Species Reported: 30
+Total Hrs.: 169.80",14,0.0824,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2014 [115]
+Count Date: 12/14/2014
+# Participants: 65
+# Species Reported: 43
+Total Hrs.: 214.00",21,0.0981,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2015 [116]
+Count Date: 12/19/2015
+# Participants: 177
+# Species Reported: 43
+Total Hrs.: 214.22",16,0.0747,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2016 [117]
+Count Date: 12/17/2016
+# Participants: 177
+# Species Reported: 37
+Total Hrs.: 210.50",29,0.1378,
+--
+"Bald Eagle
+[Haliaeetus leucocephalus]","2017 [118]
+Count Date: 12/16/2017
+# Participants: 171
+# Species Reported: 47
+Total Hrs.: 253.00",16,0.0632,

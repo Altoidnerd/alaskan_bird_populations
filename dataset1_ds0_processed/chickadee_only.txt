@@ -1,0 +1,398 @@
+"Black-capped Chickadee
+[Poecile atricapillus]","1941 [42]
+Count Date: 12/27/1941
+# Participants: 
+# Species Reported: 
+Total Hrs.: ",10,0.0000,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1960 [61]
+Count Date: 1/2/1961
+# Participants: 
+# Species Reported: 
+Total Hrs.: 29.00",52,1.7931,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1962 [63]
+Count Date: 12/23/1962
+# Participants: 
+# Species Reported: 
+Total Hrs.: 33.00",23,0.6970,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1963 [64]
+Count Date: 12/22/1963
+# Participants: 
+# Species Reported: 
+Total Hrs.: 21.00",6,0.2857,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1965 [66]
+Count Date: 12/26/1965
+# Participants: 
+# Species Reported: 
+Total Hrs.: 16.00",40,2.5000,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1966 [67]
+Count Date: 12/26/1966
+# Participants: 
+# Species Reported: 
+Total Hrs.: 21.00",15,0.7143,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1967 [68]
+Count Date: 12/24/1967
+# Participants: 
+# Species Reported: 
+Total Hrs.: 14.00",3,0.2143,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1968 [69]
+Count Date: 12/28/1968
+# Participants: 
+# Species Reported: 
+Total Hrs.: 24.00",110,4.5833,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1969 [70]
+Count Date: 12/28/1969
+# Participants: 
+# Species Reported: 
+Total Hrs.: 28.00",110,3.9286,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1970 [71]
+Count Date: 12/27/1970
+# Participants: 
+# Species Reported: 
+Total Hrs.: 25.00",190,7.6000,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1971 [72]
+Count Date: 12/26/1971
+# Participants: 
+# Species Reported: 
+Total Hrs.: 36.00",150,4.1667,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1972 [73]
+Count Date: 12/23/1972
+# Participants: 
+# Species Reported: 
+Total Hrs.: 33.00",145,4.3939,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1973 [74]
+Count Date: 12/16/1973
+# Participants: 
+# Species Reported: 
+Total Hrs.: 66.00",327,4.9545,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1974 [75]
+Count Date: 12/14/1974
+# Participants: 
+# Species Reported: 
+Total Hrs.: 61.00",295,4.8361,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1975 [76]
+Count Date: 12/20/1975
+# Participants: 
+# Species Reported: 
+Total Hrs.: 85.00",657,7.7294,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1976 [77]
+Count Date: 12/18/1976
+# Participants: 
+# Species Reported: 
+Total Hrs.: 117.00",622,5.3162,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1977 [78]
+Count Date: 12/17/1977
+# Participants: 
+# Species Reported: 
+Total Hrs.: 110.00",408,3.7091,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1978 [79]
+Count Date: 12/16/1978
+# Participants: 
+# Species Reported: 
+Total Hrs.: 71.00",365,5.1408,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1979 [80]
+Count Date: 12/15/1979
+# Participants: 
+# Species Reported: 
+Total Hrs.: 94.00",518,5.5106,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1980 [81]
+Count Date: 12/20/1980
+# Participants: 
+# Species Reported: 
+Total Hrs.: 103.00",384,3.7282,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1981 [82]
+Count Date: 12/19/1981
+# Participants: 
+# Species Reported: 
+Total Hrs.: 142.00",572,4.0282,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1982 [83]
+Count Date: 12/18/1982
+# Participants: 
+# Species Reported: 
+Total Hrs.: 135.00",628,4.6519,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1983 [84]
+Count Date: 12/17/1983
+# Participants: 
+# Species Reported: 
+Total Hrs.: 126.00",538,4.2698,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1984 [85]
+Count Date: 12/15/1984
+# Participants: 
+# Species Reported: 
+Total Hrs.: 136.00",1226,9.0147,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1985 [86]
+Count Date: 12/21/1985
+# Participants: 
+# Species Reported: 
+Total Hrs.: 132.00",783,5.9318,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1986 [87]
+Count Date: 12/20/1986
+# Participants: 
+# Species Reported: 
+Total Hrs.: 146.00",715,4.8973,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1987 [88]
+Count Date: 12/19/1987
+# Participants: 
+# Species Reported: 
+Total Hrs.: 101.50",484,4.7685,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1988 [89]
+Count Date: 12/17/1988
+# Participants: 
+# Species Reported: 
+Total Hrs.: 134.00",597,4.4552,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1989 [90]
+Count Date: 12/16/1989
+# Participants: 
+# Species Reported: 
+Total Hrs.: 128.00",961,7.5078,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1990 [91]
+Count Date: 12/15/1990
+# Participants: 
+# Species Reported: 39
+Total Hrs.: 142.00",1261,8.8803,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1991 [92]
+Count Date: 12/14/1991
+# Participants: 
+# Species Reported: 43
+Total Hrs.: 152.00",927,6.0987,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1992 [93]
+Count Date: 12/19/1992
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 175.00",1983,11.3314,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1993 [94]
+Count Date: 12/19/1993
+# Participants: 
+# Species Reported: 44
+Total Hrs.: 147.00",856,5.8231,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1994 [95]
+Count Date: 12/17/1994
+# Participants: 
+# Species Reported: 42
+Total Hrs.: 149.00",871,5.8456,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1995 [96]
+Count Date: 12/16/1995
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 172.00",1622,9.4302,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1996 [97]
+Count Date: 12/21/1996
+# Participants: 
+# Species Reported: 40
+Total Hrs.: 167.00",1539,9.2156,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1997 [98]
+Count Date: 12/20/1997
+# Participants: 
+# Species Reported: 41
+Total Hrs.: 188.00",1568,8.3404,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1998 [99]
+Count Date: 12/19/1998
+# Participants: 
+# Species Reported: 45
+Total Hrs.: 194.00",1788,9.2165,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","1999 [100]
+Count Date: 12/18/1999
+# Participants: 
+# Species Reported: 47
+Total Hrs.: 195.00",1551,7.9538,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2000 [101]
+Count Date: 12/16/2000
+# Participants: 
+# Species Reported: 41
+Total Hrs.: 196.00",1625,8.2908,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2001 [102]
+Count Date: 12/15/2001
+# Participants: 
+# Species Reported: 39
+Total Hrs.: 171.00",1664,9.7310,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2002 [103]
+Count Date: 12/14/2002
+# Participants: 
+# Species Reported: 43
+Total Hrs.: 181.00",1128,6.2320,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2003 [104]
+Count Date: 12/14/2003
+# Participants: 44
+# Species Reported: 41
+Total Hrs.: 150.00",1384,9.2267,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2004 [105]
+Count Date: 12/18/2004
+# Participants: 72
+# Species Reported: 50
+Total Hrs.: 208.75",1997,9.5665,"HC,"
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2005 [106]
+Count Date: 12/17/2005
+# Participants: 70
+# Species Reported: 40
+Total Hrs.: 186.00",1851,9.9516,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2006 [107]
+Count Date: 12/16/2006
+# Participants: 88
+# Species Reported: 46
+Total Hrs.: 218.25",1740,7.9725,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2007 [108]
+Count Date: 12/15/2007
+# Participants: 86
+# Species Reported: 40
+Total Hrs.: 223.75",1720,7.6872,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2008 [109]
+Count Date: 12/20/2008
+# Participants: 88
+# Species Reported: 44
+Total Hrs.: 196.00",1810,9.2347,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2009 [110]
+Count Date: 12/19/2009
+# Participants: 95
+# Species Reported: 38
+Total Hrs.: 202.00",708,3.5050,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2010 [111]
+Count Date: 12/18/2010
+# Participants: 93
+# Species Reported: 40
+Total Hrs.: 201.50",1684,8.3573,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2011 [112]
+Count Date: 12/17/2011
+# Participants: 99
+# Species Reported: 39
+Total Hrs.: 229.45",2080,9.0652,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2012 [113]
+Count Date: 12/15/2012
+# Participants: 59
+# Species Reported: 37
+Total Hrs.: 197.70",1367,6.9145,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2013 [114]
+Count Date: 12/14/2013
+# Participants: 134
+# Species Reported: 30
+Total Hrs.: 169.80",1105,6.5077,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2014 [115]
+Count Date: 12/14/2014
+# Participants: 65
+# Species Reported: 43
+Total Hrs.: 214.00",1985,9.2757,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2015 [116]
+Count Date: 12/19/2015
+# Participants: 177
+# Species Reported: 43
+Total Hrs.: 214.22",1888,8.8134,
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2016 [117]
+Count Date: 12/17/2016
+# Participants: 177
+# Species Reported: 37
+Total Hrs.: 210.50",2305,10.9501,"HC,"
+--
+"Black-capped Chickadee
+[Poecile atricapillus]","2017 [118]
+Count Date: 12/16/2017
+# Participants: 171
+# Species Reported: 47
+Total Hrs.: 253.00",1908,7.5415,
