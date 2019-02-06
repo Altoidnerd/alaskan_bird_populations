@@ -1,4 +1,4 @@
-Year,Earth's surface,Lower troposphere (measured by satellite) (UAH),Lower troposphere (measured by satellite) (RSS)
+year,earth_surface,lower_troposphere_uah,lower_troposphere_rss
 1901,-0.15,null,null
 1902,-0.43,null,null
 1903,-1.4,null,null
