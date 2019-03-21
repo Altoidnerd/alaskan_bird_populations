@@ -1,0 +1,2 @@
+submarine, warship, underwater, sink, fighter, refuel, boat, vessel, ship
+engine, propeller, propulsion, antifreeze, motor, turbine, coolant, generator, locomotive, diesel, steam, maneuverable, equipage, carrier, lander, carriage, vaporizer, flotilla, refuel, distillate
