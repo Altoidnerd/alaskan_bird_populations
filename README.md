@@ -14,4 +14,4 @@ The principle files are ipython workbooks:
 
 ### other files
 
-Everthing else is mostly intermediate outputs I used while preparing the unstructured dataset.
+Other files present are primarily intermediate outputs I used while preparing the unstructured dataset.
