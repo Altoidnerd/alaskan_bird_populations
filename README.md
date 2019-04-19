@@ -12,3 +12,6 @@ The principle files are ipython workbooks:
 * `ML/chickadee_model.ipynb`
 * `ML/bald_eagle_model.ipynb`
 
+### other files
+
+Everthing else is mostly intermediate outputs I used while preparing the unstructured dataset.
