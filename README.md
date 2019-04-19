@@ -1,2 +1,1 @@
-# rhombus
-ML task in prediction of Alaskan bird populations based on weather.
+# Weather based prediction of the populations of the black-capped chickadee and bald eagle in alaska.
